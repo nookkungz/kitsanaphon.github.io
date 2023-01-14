@@ -1,13 +1,4 @@
-/**
-* Template Name: DevFolio - v4.10.0
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
@@ -21,7 +12,9 @@ h5,
 h6 {
   color: #1e1e1e;
 }
-
+.big-text {
+  font-size: 30px;
+}
 a {
   color: #1e1e1e;
   text-decoration: none;
@@ -225,9 +218,9 @@ a:hover {
   width: 40px;
   font-size: 1.2rem;
   border-radius: 50%;
-  line-height: 1.6;
+  line-height: 1.9;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #000000;
   transition: all 500ms ease;
 }
 
@@ -338,7 +331,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: #23d4bd;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -352,8 +345,8 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #298eff;
-  color: #fff;
+  background: #df1d94;
+  color: rgb(205, 57, 238);
 }
 
 .back-to-top.active {
@@ -781,7 +774,7 @@ a:hover {
 }
 
 .hero .hero-subtitle {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 600;
 }
 
@@ -867,8 +860,9 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: black;
 }
+
 
 /*--------------------------------------------------------------
 # Services
