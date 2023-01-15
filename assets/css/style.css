@@ -92,7 +92,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .overlay-mf {
@@ -161,7 +161,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #000000;
   margin: 0 auto;
 }
 
@@ -253,7 +253,6 @@ a:hover {
   margin-right: 10px;
 }
 
-/*------/ Ico Circle /------*/
 .ico-circle {
   height: 100px;
   width: 100px;
@@ -266,7 +265,6 @@ a:hover {
   display: block;
 }
 
-/*------/ Owl Carousel /------*/
 .owl-theme .owl-dots {
   text-align: center;
   margin-top: 18px;
