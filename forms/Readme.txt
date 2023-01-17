@@ -1,1 +1,1 @@
-Hell this is kitsanaphon website 💐
+Hello there this is kitsanaphon website 💐
